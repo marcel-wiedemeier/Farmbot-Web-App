@@ -21,6 +21,7 @@ erd.pdf
 *scratchpad*
 /config/master.key
 config/credentials.yml.enc
+.DS_Store
 # ActiveStorage blobs:
 storage/*
 
